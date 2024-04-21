@@ -6,7 +6,7 @@ const AuthLayout = ({
     return (
         <div className='h-full flex items-center justify-center
         bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))]
-        from-sky-400 to-blue-800'>
+        from-sky-500 #7ED6DF'>
         {children}
         </div>
     );
